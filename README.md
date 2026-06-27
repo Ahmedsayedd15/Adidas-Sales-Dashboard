@@ -64,5 +64,3 @@ Project Highlights
 Author
 Ahmed Sayed
 Computer Engineering Student | Data Analytics & Cybersecurity Enthusiast
-
-قولّي 🔥
