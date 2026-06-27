@@ -35,6 +35,8 @@ Dashboard Components
 * Regional breakdown
 * Time-based trends
 * Interactive filters and slicers
+* <img width="445" height="294" alt="image" src="https://github.com/user-attachments/assets/3e9be588-42d4-40e6-bfb6-a472a7197d57" />
+
 
 Data Processing
 
